@@ -62,3 +62,9 @@ The goal is to improve **incident tracking, cyber threat monitoring, and respons
 
 ```bash
 pip install flask
+
+## 👨‍💻 Developer
+
+**Rifat Bin Tayub**  
+Cyber Security Enthusiast | Python Learner | Exploring Ethical Hacking & Cyber Defense
+
